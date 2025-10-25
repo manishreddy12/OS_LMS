@@ -141,7 +141,7 @@ gcc client.c -o client
 - Book reservation system
 
 ## Contributors
-- Your Name
+- Manish Reddy
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
